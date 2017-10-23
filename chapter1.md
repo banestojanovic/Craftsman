@@ -4,7 +4,7 @@ This is guide on how to simply install Craftsman theme and how to set up full de
 
 [Video Installation Tutorial](//chapter1.md#installation)
 
-[Textual Installation Tutorial](//textual-installation-tutorial.md)
+[Textual Installation Tutorial](/textual-installation-tutorial.html#textual-installation-tutorial)
 
 #### Video Installation Tutorial
 
