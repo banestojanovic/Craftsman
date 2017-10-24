@@ -13,3 +13,9 @@
     * [Video Installation Tutorial](chapter1/video-installation-tutorial.md)
   * [Craftsman Listing Installation](chapter1/craftsman-listing-installation.md)
 
+## Users
+
+* [User Roles](users/user-roles.md)
+  * [Role Craftsman](users/user-roles/role-craftsman.md)
+  * [Role Client](users/user-roles/role-client.md)
+
