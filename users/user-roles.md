@@ -36,13 +36,13 @@ _To find out more about their administration page and what they can do from ther
 
 As administrator of your site you also have option to create users for your site. In order to do it properly you will need to assigned theme appropriate role, activate their account and set their membership level.
 
-By going to _Users -&gt; Add New _you will have WordPress default options for creating user.
+By going to \_Users -&gt; Add New \_you will have WordPress default options for creating user.
 
 ![](/assets/10.png)
 
-Fill all necessary fields and make sure that _Role _is set to either _Craftsman _or _Client._ If you forgot to do that and still click on _Add New User, _no worries you will still have to come back to this user to set other necessary things.
+Fill all necessary fields and make sure that _Role \_is set to either \_Craftsman \_or \_Client._ If you forgot to do that and still click on \_Add New User, \_no worries you will still have to come back to this user to set other necessary things.
 
-Once you create user go to _All Users _screen and click on newly created user to enter its profile.
+Once you create user go to \_All Users \_screen and click on newly created user to enter its profile.
 
 You will see screen like this:![](/assets/11.png)On the right you can set their avatar, though they can do it themselves on  their frontend profile page.
 
@@ -50,25 +50,23 @@ Scroll to the very bottom of this screen and you'll see below marked options:
 
 ![](/assets/12.png)
 
-You will need to set User _Status_ to _Active and User Premium Status to either Free Trial _or _Premium _so newly created user will be able to use immediately their profile.
+You will need to set User _Status_ to Active and _User Premium Status_ to either Free _Trial_ or _Premium _so newly created user will be able to use immediately their profile.
 
 Let's learn what each of this options means:
 
-**User Status: **This option can be set to _Inactive _or _Active._ Setting this option to _Active _will make user account activate so they won't need to do it themselves from frontend.
+**User Status: **This option can be set to _Inactive or Active._ Setting this option to Active will make user account activate so they won't need to do it themselves from frontend.
 
-**User Featured Status: **This option can be set to _Not Featured _or _Featured._ If it is set to _Featured _then their profile or jobs they posted if they are client will be shown among top searched results.
+**User Featured Status: **This option can be set to _Not Featured _or _Featured._ If it is set to _Featured_ then their profile or jobs they posted if they are client will be shown among top searched results.
 
 **User Premium Status: **This field consists of four possible options that we'll explain below:
 
-_Not Premium: _First visible option when user is created \( this is automatically changed when user creates their profile from backend \). You will use this if you want to reset expiring dates to count from beginning. If user is premium, for example, but 5 days has already passed from their premium time and you wish to reset it to 0, then you will set select field to this option then click on update and after page refresh you will set it again to _Premium_ and click update. Same process is for _Free Trial._
+Not Premium: _First visible option when user is created \( this is automatically changed when user creates their profile from backend \). You will use this if you want to reset expiring dates to count from beginning. If user is premium, for example, but 5 days has already passed from their premium time and you wish to reset it to 0, then you will set select field to this option then click on update and after page refresh you will set it again to Premium_ and click update. Same process is for _Free Trial._
 
 _Free Trial:_ Set this option if you wish user to experience free trial period. It is automatically set when user creates its own account from frontend by choosing free trials option.
 
-_Expired: _Set to this option if you wish to make user membership to expired. This will make craftsman or jobs posts of client not visible on the site anymore!
+_Expired:_ Set to this option if you wish to make user membership to expired. This will make craftsman or jobs posts of client not visible on the site anymore!
 
-_Premium: _Set this option if you wish user to be premium. It is automatically set when user creates its own account from frontend by choosing premium account.
-
-
+_Premium_: Set this option if you wish user to be premium. It is automatically set when user creates its own account from frontend by choosing premium account.
 
 This part is same for both craftsman and client accounts. The rest is somewhat different and you can find more about it on below links:
 
@@ -81,6 +79,4 @@ _Find out more about client role: _[_Role Client_](/users/user-roles/role-client
 **What to do if Craftsman account you just created is not visible or its profile cannot be accessed?**
 
 _Find out more about craftsman role: _[_Role Craftsman_](/users/user-roles/role-craftsman.md)
-
-
 
