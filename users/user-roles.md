@@ -30,3 +30,5 @@ _Find out more about how to setup membership in theme options: _[_Membership Set
 
 When they submit the form at the end and receive success message, the site will guide them to their admin profile page.
 
+_To find out more about their administration page and what they can do from there: _[_User Administration_](/users/user-administration-profile-page.md)
+
