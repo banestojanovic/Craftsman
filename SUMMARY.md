@@ -18,4 +18,9 @@
 * [User Roles](users/user-roles.md)
   * [Role Craftsman](users/user-roles/role-craftsman.md)
   * [Role Client](users/user-roles/role-client.md)
+* [User Membership](users/user-membership.md)
+
+## Theme Options
+
+* [Membership Setup](theme-options/membership-setup.md)
 
