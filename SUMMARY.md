@@ -21,6 +21,9 @@
 * [User Membership](users/user-membership.md)
   * [Craftsman Membership](users/user-membership/craftsman-membership.md)
   * [Client Membership](users/user-membership/client-membership.md)
+* [User Administration \( Profile Pages \)](users/user-administration-profile-page.md)
+  * [Craftsman Administration](users/user-administration-profile-page/craftsman-administration.md)
+  * [Client Administration](users/user-administration-profile-page/client-administration.md)
 
 ## Theme Options
 

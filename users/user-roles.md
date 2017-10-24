@@ -26,3 +26,7 @@ Fi_nd out more about user membership system: _[_User Membership_](/users/user-me
 
 _Find out more about how to setup membership in theme options: _[_Membership Setup_](/theme-options/membership-setup.md)
 
+
+
+When they submit the form at the end and receive success message, the site will guide them to their admin profile page.
+
