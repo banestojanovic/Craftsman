@@ -50,17 +50,17 @@ Scroll to the very bottom of this screen and you'll see below marked options:
 
 ![](/assets/12.png)
 
-You will need to set User _Status_ to Active and _User Premium Status_ to either Free _Trial_ or _Premium _so newly created user will be able to use immediately their profile.
+You will need to set User _Status_ to _Active _and _User Premium Status_ to either_ Free Trial_ or _Premium _so newly created user will be able to use immediately their profile.
 
 Let's learn what each of this options means:
 
 **User Status: **This option can be set to _Inactive or Active._ Setting this option to Active will make user account activate so they won't need to do it themselves from frontend.
 
-**User Featured Status: **This option can be set to _Not Featured _or _Featured._ If it is set to _Featured_ then their profile or jobs they posted if they are client will be shown among top searched results.
+**User Featured Status: **This option can be set to _Not Featured _or_ Featured._ If it is set to _Featured_ then their profile or jobs they posted if they are client will be shown among top searched results.
 
 **User Premium Status: **This field consists of four possible options that we'll explain below:
 
-Not Premium: _First visible option when user is created \( this is automatically changed when user creates their profile from backend \). You will use this if you want to reset expiring dates to count from beginning. If user is premium, for example, but 5 days has already passed from their premium time and you wish to reset it to 0, then you will set select field to this option then click on update and after page refresh you will set it again to Premium_ and click update. Same process is for _Free Trial._
+_Not Premium_: First visible option when user is created \( this is automatically changed when user creates their profile from backend \). You will use this if you want to reset expiring dates to count from beginning. If user is premium, for example, but 5 days has already passed from their premium time and you wish to reset it to 0, then you will set select field to this option then click on update and after page refresh you will set it again to _Premium_ and click update. Same process is for _Free Trial._
 
 _Free Trial:_ Set this option if you wish user to experience free trial period. It is automatically set when user creates its own account from frontend by choosing free trials option.
 
