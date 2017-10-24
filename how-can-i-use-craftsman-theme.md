@@ -4,9 +4,9 @@ Craftsman WordPress theme by default can be used in two main ways. The first way
 
 In the next two subsections you'll be able to find out more about both default ways of using the theme.
 
+
+
 ---
-
-
 
 **Using Craftsman theme as full craftsmen listing and job board system**
 
@@ -14,15 +14,17 @@ Using Craftsman theme as full job board system means that your users will be abl
 
 _To find more about user roles go to this section: _[_User Roles_](/users/user-roles.md)
 
+
+
 One of the main things by using the theme in this way is ability for users, depending whether they are of craftsman or client role, to **post jobs, create their profiles with a lot of options, apply or invite to jobs, managing jobs and job applicants** \( craftsmen that applied to an job \),** review system with ratings and testimonials, searching for both jobs and craftsmen and a lot more.**
 
 _To find out how to install theme fully use below guide:_
 
 [Full Theme Installation](/chapter1/full-installation.md)
 
+
+
 ---
-
-
 
 **Using Craftsman theme as craftsmen listing only**
 
