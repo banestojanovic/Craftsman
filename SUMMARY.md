@@ -29,3 +29,11 @@
 
 * [Membership Setup](theme-options/membership-setup.md)
 
+## Craftsmen
+
+* Craftsman Post Type
+
+## Jobs
+
+* Job Post Type
+
