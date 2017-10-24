@@ -31,9 +31,9 @@
 
 ## Craftsmen
 
-* Craftsman Post Type
+* [Craftsman Post Type](craftsmen/craftsman-post-type.md)
 
 ## Jobs
 
-* Job Post Type
+* [Job Post Type](jobs/job-post-type.md)
 
