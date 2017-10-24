@@ -3,11 +3,13 @@
 ## Introduction
 
 * [Introduction](README.md)
-  * How Can I Use Craftsman Theme?
+  * [For What Can I Craftsman Theme?](how-can-i-use-craftsman-theme.md)
 
 ## Installation
 
 * [Installation](chapter1.md)
-  * [Textual Installation Tutorial](chapter1/textual-installation-tutorial.md)
-  * [Video Installation Tutorial](chapter1/video-installation-tutorial.md)
+  * [Full Theme Installation](chapter1/full-installation.md)
+    * [Textual Installation Tutorial](chapter1/textual-installation-tutorial.md)
+    * [Video Installation Tutorial](chapter1/video-installation-tutorial.md)
+  * [Craftsman Listing Installation](chapter1/craftsman-listing-installation.md)
 
