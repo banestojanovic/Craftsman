@@ -1,6 +1,4 @@
 #### Video Installation Tutorial
 
-[https://www.youtube.com/watch?v=fvirwCe66IA](https://www.youtube.com/watch?v=fvirwCe66IA)
-
-
+{% youtube src="https://www.youtube.com/watch?v=9bZkp7q19f0" %}{% endyoutube %}
 
