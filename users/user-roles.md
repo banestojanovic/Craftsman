@@ -36,13 +36,13 @@ _To find out more about their administration page and what they can do from ther
 
 As administrator of your site you also have option to create users for your site. In order to do it properly you will need to assigned theme appropriate role, activate their account and set their membership level.
 
-By going to \_Users -&gt; Add New \_you will have WordPress default options for creating user.
+By going to _Users -&gt; Add New _you will have WordPress default options for creating user.
 
 ![](/assets/10.png)
 
-Fill all necessary fields and make sure that _Role \_is set to either \_Craftsman \_or \_Client._ If you forgot to do that and still click on \_Add New User, \_no worries you will still have to come back to this user to set other necessary things.
+Fill all necessary fields and make sure that _Role _is set to either _Craftsman _or _Client._ If you forgot to do that and still click on _Add New User_, no worries you will still have to come back to this user to set other necessary things.
 
-Once you create user go to \_All Users \_screen and click on newly created user to enter its profile.
+Once you create user go to _All Users screen _and click on newly created user to enter its profile.
 
 You will see screen like this:![](/assets/11.png)On the right you can set their avatar, though they can do it themselves on  their frontend profile page.
 
@@ -50,13 +50,13 @@ Scroll to the very bottom of this screen and you'll see below marked options:
 
 ![](/assets/12.png)
 
-You will need to set User _Status_ to _Active _and _User Premium Status_ to either_ Free Trial_ or _Premium _so newly created user will be able to use immediately their profile.
+You will need to set User _Status_ to _Active and User Premium Status_ to either_ Free Trial_ or Premium so newly created user will be able to use immediately their profile.
 
 Let's learn what each of this options means:
 
 **User Status: **This option can be set to _Inactive or Active._ Setting this option to Active will make user account activate so they won't need to do it themselves from frontend.
 
-**User Featured Status: **This option can be set to _Not Featured _or_ Featured._ If it is set to _Featured_ then their profile or jobs they posted if they are client will be shown among top searched results.
+**User Featured Status: **This option can be set to _Not Featured or_ Featured._ If it is set to Featured_ then their profile or jobs they posted if they are client will be shown among top searched results.
 
 **User Premium Status: **This field consists of four possible options that we'll explain below:
 
