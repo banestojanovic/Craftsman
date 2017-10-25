@@ -27,18 +27,16 @@
     * [Craftsman Backend Administration](users/user-administration-profile-page/craftsman-administration/backend-administration.md)
   * [Client Administration](users/user-administration-profile-page/client-administration.md)
 
+## Post Types
+
+* [Craftsman Post Type](craftsmen/craftsman-post-type.md)
+* [Job Post Type](jobs/job-post-type.md)
+* [Categories](craftsmen/categories.md)
+
 ## Theme Options
 
 * [Membership Setup](theme-options/membership-setup.md)
 * [Payments Setup](theme-options/payments-setup.md)
-
-## Craftsmen
-
-* [Craftsman Post Type](craftsmen/craftsman-post-type.md)
-
-## Jobs
-
-* [Job Post Type](jobs/job-post-type.md)
 
 ## Job Applications
 
