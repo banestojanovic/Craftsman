@@ -10,6 +10,8 @@ _Find out more on how to setup membership options: _[_Membership Setup_](/theme-
 
 Client at anytime can check their membership status by visiting to their profile page.
 
+_Find out more about user profile pages: _[_User Administration \( Profile Pages \)_](/users/user-administration-profile-page.md)
+
 _Expired Profile_![](/assets/16.png)
 
 _Premium Profile_![](/assets/17.png)

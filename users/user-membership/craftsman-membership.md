@@ -14,6 +14,8 @@ _Find out more on role craftsman: _[_Role Craftsman_](/users/user-roles/role-cra
 
 User can check out their membership anytime by visiting their profile page.
 
+_Find out more about user profile pages: _[_User Administration \( Profile Pages \)_](/users/user-administration-profile-page.md)
+
 _Expired profile looks like this:_![](/assets/16.png)
 
 _Premium profile looks like this:_![](/assets/17.png)
