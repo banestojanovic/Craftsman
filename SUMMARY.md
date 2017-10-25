@@ -3,7 +3,7 @@
 ## Introduction
 
 * [Introduction](README.md)
-  * [For What Can I Craftsman Theme?](how-can-i-use-craftsman-theme.md)
+  * [For What Can I Use Craftsman Theme?](how-can-i-use-craftsman-theme.md)
   * [How Craftsman Theme Works?](how-craftsman-theme-works.md)
     * [How To Post Job?](how-craftsman-theme-works/how-to-post-job.md)
     * [How To Apply To Job?](how-craftsman-theme-works/how-to-apply-to-job.md)
