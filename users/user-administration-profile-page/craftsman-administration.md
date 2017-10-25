@@ -17,3 +17,12 @@ _Find out more about craftsmen frontend administration: _[_Craftsman Frontend Ad
 
 _Find out more about craftsmen backend administration: _[_Craftsman Backend Administration_](/users/user-administration-profile-page/craftsman-administration/backend-administration.md)
 
+**Why can't I access profile page?**
+
+If this happens to you than most likely the case is that you have unintentionally missed something of importance. Please carefully check for below things.
+
+1. You have chosen author of Craftsman post. Go to _Craftsmen -&gt; All Craftsman -&gt; YOUR\_CRAFTSMAN _ and see if author of the post is chosen.
+2. Go to _Users -&gt; All Users_ and make sure that you can see that Appropriate Craftsman post is set in the column like it is shown in image below.![](/assets/14.png)
+
+
+
