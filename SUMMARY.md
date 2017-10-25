@@ -26,6 +26,8 @@
     * [Craftsman Frontend Administration](users/user-administration-profile-page/craftsman-administration/frontend-administration.md)
     * [Craftsman Backend Administration](users/user-administration-profile-page/craftsman-administration/backend-administration.md)
   * [Client Administration](users/user-administration-profile-page/client-administration.md)
+    * [Client Frontend Administration](users/user-administration-profile-page/client-administration/client-frontend-administration.md)
+    * [Client Backend Administration](users/user-administration-profile-page/client-administration/client-backend-administration.md)
 
 ## Post Types
 
