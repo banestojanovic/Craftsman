@@ -23,6 +23,8 @@
   * [Client Membership](users/user-membership/client-membership.md)
 * [User Administration \( Profile Pages \)](users/user-administration-profile-page.md)
   * [Craftsman Administration](users/user-administration-profile-page/craftsman-administration.md)
+    * [Craftsman Frontend Administration](users/user-administration-profile-page/craftsman-administration/frontend-administration.md)
+    * [Craftsman Backend Administration](users/user-administration-profile-page/craftsman-administration/backend-administration.md)
   * [Client Administration](users/user-administration-profile-page/client-administration.md)
 
 ## Theme Options
