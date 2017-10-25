@@ -36,8 +36,6 @@ Here users can set personal details that are consisted of couple of field.
 3. \_Email \(required\) - \_With this field you can set email
 4. \_Profile Image - \_With this button you can set your profile image that will be visible to all other users that browse your profile.
 
-
-
 **Social Details**
 
 Here users can set links their social accounts
@@ -50,8 +48,6 @@ Let's see what each of them does.
 2. \_Twitter - \_With this field you can set link to your twitter profile page.
 3. \_Google - \_With this field you can set link to your google plus profile page.
 4. _Ins\_tagram - \_With this field you can set link to your instagram profile page._
-
-
 
 **Update Password**
 
@@ -71,9 +67,52 @@ Those fields are pretty straightforward.
 
 Business settings are the part of the Craftsman user administration area. With this settings you will change fields that will be visible to site visitors. Business Settings on frontend are the same thing as Craftsman Post Type in backend.
 
+Business settings are of seven different types.
+
+![](/assets/25.png)
+
+
+
+1. _Business Settings_
+2. _Image Gallery_
+3. _Promotional Video_
+4. Address
+5. _Covered Area_
+6. Working Hours
+7. _Categories_
+
+
+
 Let's go over each part of business settings.
 
 
+
+**Business Details**
+
+Here you can set default business details![](/assets/26.png) 
+
+Let's see what each of this fields does.
+
+1. _Business Name \(required\) - _With this field you can set your business name.
+2. _Description - _With this field you can type description of the services you profile
+3. _Phone - _With this field you can set your business phone number
+4. _Website Link - _With this field you can set link to your main website page if you have it
+5. _Email - _With this field you can set your business email that will otherwise be taken from user profile settings
+6. _business Profile Header Image - _With this field you can set Business Header Image that will be used on your business single page.
+
+
+
+**Image Gallery**
+
+Here you can set image gallery that will be displayed on your business single page
+
+![](/assets/27.png)
+
+By clicking on _Add Images_ button you would be able to add images and create your personal business gallery
+
+
+
+**Promotional Video**
 
 
 
