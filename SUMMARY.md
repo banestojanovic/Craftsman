@@ -28,6 +28,7 @@
 ## Theme Options
 
 * [Membership Setup](theme-options/membership-setup.md)
+* [Payments Setup](theme-options/payments-setup.md)
 
 ## Craftsmen
 
