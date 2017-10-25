@@ -108,10 +108,8 @@ Here you can set promotional video for your business single page if you have one
 
 Let's quickly go over fields.
 
-1. _Promo Video Description - _Enter description that will be displayed just above promotional video on your business profile page
-2. _Promo Video - _Enter full link to the site where your video is hosted \( like YouTube for example \).
-
-
+1. \_Promo Video Description - \_Enter description that will be displayed just above promotional video on your business profile page
+2. \_Promo Video - \_Enter full link to the site where your video is hosted \( like YouTube for example \).
 
 **Address**
 
@@ -121,34 +119,24 @@ Here you can set your business address.
 
 Let's go over this fields:
 
-1. _Region - _This field is automatically populated, only if region cannot be found you would be able to set it yourself.
-2. _Address - _Just start typing address you wish and fine tune with marker.
-
-
+1. \_Region - \_This field is automatically populated, only if region cannot be found you would be able to set it yourself.
+2. \_Address - \_Just start typing address you wish and fine tune with marker.
 
 **Covered Area**
 
 Here you can mark area your business is covering
 
-
-
 ![](/assets/30.png)
 
 In order to user this type of map you'll need to first set your address. When you do that you will be able to draw covered area on map.
-
-
 
 **Working Hours**
 
 Here user can set working hours of your business.
 
-
-
 ![](/assets/31.png)
 
 Each field represents one day in the week. Use the format that is displayed in placeholder or leave empty to mark day as non working.
-
-
 
 **Categories**
 
@@ -156,11 +144,35 @@ Here user can set categories that he/she wish to be connected to.![](/assets/32.
 
 Choose category from select box. Click on plus icon to add new category or minus to remove one category.
 
-
-
 ---
 
 #### Jobs
 
+By visiting jobs part of craftsman administration area you can have overview of all jobs that you applied to.
 
+This part of profile page consists of three things.
+
+![](/assets/33.png)
+
+1. _Jobs Applications_
+2. Finished Jobs
+3. _Testimonials & Ratings_
+
+**Jobs Applications**
+
+Here you can see all job postings that you applied to work on.![](/assets/34.png)
+
+You can see and visit job posting, date on which you have applied to job and status of your job application.
+
+_Find out more about job applications: _[_Job Applications_](/job-applications/applications.md)
+
+
+
+**Finished Jobs**
+
+Here you can see all your finished jobs and rating and reviews that you give and received for an job.![](/assets/35.png)
+
+**Testimonials & Ratings**
+
+Here you can see all ratings and reviews that you have received for the jobs you did.![](/assets/36.png)
 

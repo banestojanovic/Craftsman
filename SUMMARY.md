@@ -40,3 +40,9 @@
 
 * [Job Post Type](jobs/job-post-type.md)
 
+## Job Applications
+
+* [Applications](job-applications/applications.md)
+  * [Craftsman Applications](job-applications/applications/craftsman-applications.md)
+  * [Client Applications](job-applications/applications/client-applications.md)
+
