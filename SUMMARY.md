@@ -4,6 +4,7 @@
 
 * [Introduction](README.md)
   * [For What Can I Craftsman Theme?](how-can-i-use-craftsman-theme.md)
+  * [How Craftsman Theme Works?](how-craftsman-theme-works.md)
 
 ## Installation
 
