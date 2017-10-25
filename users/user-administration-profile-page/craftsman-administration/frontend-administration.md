@@ -5,7 +5,7 @@ Craftsmen profile page, as mentioned in previous section, consists of few parts:
 1. [**Dashboard**](#dashboard)
 2. [**Profile Settings**](#profile)** / \( **_User Settings in wp admin area \)_
 3. [**Business Settings**](#business-settings)** / \( **_Craftsman Post Type in wp admin area \)_
-4. **Jobs**
+4. [**Jobs**](#jobs)
 
 Let's learn about each one of them.
 
@@ -71,8 +71,6 @@ Business settings are of seven different types.
 
 ![](/assets/25.png)
 
-
-
 1. _Business Settings_
 2. _Image Gallery_
 3. _Promotional Video_
@@ -81,26 +79,20 @@ Business settings are of seven different types.
 6. Working Hours
 7. _Categories_
 
-
-
 Let's go over each part of business settings.
-
-
 
 **Business Details**
 
-Here you can set default business details![](/assets/26.png) 
+Here you can set default business details![](/assets/26.png)
 
 Let's see what each of this fields does.
 
-1. _Business Name \(required\) - _With this field you can set your business name.
-2. _Description - _With this field you can type description of the services you profile
-3. _Phone - _With this field you can set your business phone number
-4. _Website Link - _With this field you can set link to your main website page if you have it
-5. _Email - _With this field you can set your business email that will otherwise be taken from user profile settings
-6. _business Profile Header Image - _With this field you can set Business Header Image that will be used on your business single page.
-
-
+1. \_Business Name \(required\) - \_With this field you can set your business name.
+2. \_Description - \_With this field you can type description of the services you profile
+3. \_Phone - \_With this field you can set your business phone number
+4. \_Website Link - \_With this field you can set link to your main website page if you have it
+5. \_Email - \_With this field you can set your business email that will otherwise be taken from user profile settings
+6. \_business Profile Header Image - \_With this field you can set Business Header Image that will be used on your business single page.
 
 **Image Gallery**
 
@@ -110,9 +102,65 @@ Here you can set image gallery that will be displayed on your business single pa
 
 By clicking on _Add Images_ button you would be able to add images and create your personal business gallery
 
-
-
 **Promotional Video**
+
+Here you can set promotional video for your business single page if you have one. All popular services are supported \( _YouTube, Vimeo etc._\).![](/assets/28.png)
+
+Let's quickly go over fields.
+
+1. _Promo Video Description - _Enter description that will be displayed just above promotional video on your business profile page
+2. _Promo Video - _Enter full link to the site where your video is hosted \( like YouTube for example \).
+
+
+
+**Address**
+
+Here you can set your business address.
+
+![](/assets/29.png)
+
+Let's go over this fields:
+
+1. _Region - _This field is automatically populated, only if region cannot be found you would be able to set it yourself.
+2. _Address - _Just start typing address you wish and fine tune with marker.
+
+
+
+**Covered Area**
+
+Here you can mark area your business is covering
+
+
+
+![](/assets/30.png)
+
+In order to user this type of map you'll need to first set your address. When you do that you will be able to draw covered area on map.
+
+
+
+**Working Hours**
+
+Here user can set working hours of your business.
+
+
+
+![](/assets/31.png)
+
+Each field represents one day in the week. Use the format that is displayed in placeholder or leave empty to mark day as non working.
+
+
+
+**Categories**
+
+Here user can set categories that he/she wish to be connected to.![](/assets/32.png)
+
+Choose category from select box. Click on plus icon to add new category or minus to remove one category.
+
+
+
+---
+
+#### Jobs
 
 
 
