@@ -18,17 +18,13 @@ _Expired profile looks like this:_![](/assets/16.png)
 
 _Premium profile looks like this:_![](/assets/17.png)
 
-At any time during _Free Trial_ period or when user account has been _Expired_ user can upgrade their profile to _Premium _by paying predefined price.
-
-
+At any time during _Free Trial_ period or when user account has been _Expired_ user can upgrade their profile to _Premium_ by paying predefined price.
 
 ---
 
 **Where to set payment methods?**
 
 _To find out more about payment methods: _[_Payments Setup_](/theme-options/payments-setup.md)
-
-
 
 ---
 
@@ -39,4 +35,6 @@ At any time as site administrator you can change craftsmen membership. There are
 1. Go to chosen craftsman post \( _Craftsmen -&gt; All Craftsmen -&gt; CRAFTSMAN \)_ and select its membership option by select appropriate option in select field.![](/assets/18.png)
 
 2. Go to chosen user _\( Users -&gt; All Users -&gt; USER \)_ and select its membership option by select appropriate option in select field.![](/assets/19.png)
+
+
 
