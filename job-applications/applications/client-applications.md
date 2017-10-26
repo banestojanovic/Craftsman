@@ -32,3 +32,13 @@ When you accept an application first set of icons in the table will be switched 
 
 _Find out more on about review system: _[_Testimonials & Ratings_](/job-applications/applications/testimonials-and-ratings.md)
 
+
+
+---
+
+**Accidentally changed job application status and cannot revert?**
+
+If you accidentally accepted or rejected application you'll not be able to turn it back yourself. The only way to fix it is to contact site administration where he will be able to do it for you.
+
+Site administrator needs to go to _Jobs Applications -&gt; All Applications -&gt; APPLICATION_ and inside it switch status in select box.![](/assets/61.png)
+
