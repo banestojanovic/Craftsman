@@ -39,7 +39,7 @@ Sign Up
 
 Choose a monthly or annual plan. Then just fill in your details to sign up for a membership with us. The annual plan is the best value over 12 months, plus you'll get member benefits premium too.
 
- 
+
 
 [/column]
 
@@ -63,7 +63,7 @@ Choose a monthly or annual plan. Then just fill in your details to sign up for a
 
 Become a member
 
- 
+
 
 Create your profile
 
@@ -73,8 +73,6 @@ This is like a mini website that makes your business really shine. Show off exam
 
 [/row]
 ```
-
-
 
 ---
 
@@ -155,4 +153,6 @@ This is like a mini website that makes your business really shine. Show off exam
 ```
 
 
+
+_Find out more about shortcodes used: _[_Shortcodes_](/shortcodes/shortcodes.md)
 

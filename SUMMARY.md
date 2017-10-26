@@ -79,6 +79,10 @@
   * [Client Applications](job-applications/applications/client-applications.md)
   * [Testimonials & Ratings](job-applications/applications/testimonials-and-ratings.md)
 
+## Shortcodes
+
+* [Shortcodes](shortcodes/shortcodes.md)
+
 ## Credits
 
 * Credits
