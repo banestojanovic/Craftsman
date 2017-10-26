@@ -58,7 +58,7 @@
 * [Appearance](theme-options/appearance.md)
   * [Listing](theme-options/appearance/listing.md)
   * [Thumbnails](theme-options/appearance/thumbnails.md)
-* Reviews
+* [Reviews](theme-options/reviews.md)
 * [Page Specific Options](theme-options/page-specific-options.md)
   * [Home Page Options](theme-options/page-specific-options/home-page-options.md)
     * [Template](theme-options/page-specific-options/home-page-options/template.md)
