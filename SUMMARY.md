@@ -57,6 +57,9 @@
 * [Identity & Social](theme-options/identity-and-social.md)
   * [Site Identity](theme-options/identity-and-social/site-identity.md)
   * [Social Networks](theme-options/identity-and-social/social-networks.md)
+* [Appearance](theme-options/appearance.md)
+  * [Listing](theme-options/appearance/listing.md)
+  * [Thumbnails](theme-options/appearance/thumbnails.md)
 * [Reviews](theme-options/reviews.md)
 
 ## Job Applications
