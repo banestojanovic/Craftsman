@@ -41,6 +41,10 @@
 
 ## Theme Options
 
+* [Theme Setup](theme-options/theme-setup.md)
+  * [Pages Setup](theme-options/theme-setup/pages-setup.md)
+  * [Endpoints Setup](theme-options/theme-setup/endpoints-setup.md)
+  * [Fallbacks Setup](theme-options/theme-setup/fallbacks-setup.md)
 * [Membership Setup](theme-options/membership-setup.md)
 * [Payments Setup](theme-options/payments-setup.md)
 * [Reviews](theme-options/reviews.md)
