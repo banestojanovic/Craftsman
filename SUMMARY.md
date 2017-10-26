@@ -35,8 +35,6 @@
 
 ## Post Types
 
-* [Craftsman Post Type](craftsmen/craftsman-post-type.md)
-* [Job Post Type](jobs/job-post-type.md)
 * [Categories](craftsmen/categories.md)
 
 ## Theme Options
