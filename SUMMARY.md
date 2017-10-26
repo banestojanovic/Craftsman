@@ -52,3 +52,7 @@
   * [Client Applications](job-applications/applications/client-applications.md)
   * [Testimonials & Ratings](job-applications/applications/testimonials-and-ratings.md)
 
+## Credits
+
+* Credits
+
