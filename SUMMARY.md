@@ -63,6 +63,12 @@
 * Reviews
 * [Page Specific Options](theme-options/page-specific-options.md)
   * [Home Page Options](theme-options/page-specific-options/home-page-options.md)
+    * [Template](theme-options/page-specific-options/home-page-options/template.md)
+    * [Banner](theme-options/page-specific-options/home-page-options/banner.md)
+    * [Categories](theme-options/page-specific-options/home-page-options/categories.md)
+    * [How It Works](theme-options/page-specific-options/home-page-options/how-it-works.md)
+    * [Promo](theme-options/page-specific-options/home-page-options/promo.md)
+    * [Blog](theme-options/page-specific-options/home-page-options/blog.md)
   * [Inner Pages Options](theme-options/page-specific-options/inner-pages-options.md)
 
 ## Job Applications
