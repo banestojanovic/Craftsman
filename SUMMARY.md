@@ -7,7 +7,7 @@
   * [How Craftsman Theme Works?](how-craftsman-theme-works.md)
     * [How To Post Job?](how-craftsman-theme-works/how-to-post-job.md)
     * [How To Apply To Job?](how-craftsman-theme-works/how-to-apply-to-job.md)
-    * How To Invite Craftsman To Apply For Job?
+    * [How To Invite Craftsman To Apply For Job?](how-craftsman-theme-works/how-to-invite-craftsman-to-apply-for-job.md)
 
 ## Installation
 
