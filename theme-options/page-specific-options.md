@@ -4,6 +4,7 @@ Many page that you will create while using Craftsman WordPress theme will have t
 
 1. [**Home Page Options**](/theme-options/page-specific-options/home-page-options.md)
 2. [**Inner Pages Options**](/theme-options/page-specific-options/inner-pages-options.md)
+3. [**How It Works Page Options**](/theme-options/page-specific-options/how-it-works-page-options.md)
 
 
 

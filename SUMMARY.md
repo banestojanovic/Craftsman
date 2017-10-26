@@ -70,6 +70,7 @@
     * [Promo](theme-options/page-specific-options/home-page-options/promo.md)
     * [Blog](theme-options/page-specific-options/home-page-options/blog.md)
   * [Inner Pages Options](theme-options/page-specific-options/inner-pages-options.md)
+  * [How It Works Page Options](theme-options/page-specific-options/how-it-works-page-options.md)
 
 ## Job Applications
 
