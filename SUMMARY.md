@@ -33,7 +33,7 @@
     * [Client Frontend Administration](users/user-administration-profile-page/client-administration/client-frontend-administration.md)
     * [Client Backend Administration](users/user-administration-profile-page/client-administration/client-backend-administration.md)
 
-## Post Types
+## Post Types & Taxonomies
 
 * [Categories](craftsmen/categories.md)
 
@@ -83,5 +83,5 @@
 
 ## Credits
 
-* Credits
+* [Credits](credits/credits.md)
 
