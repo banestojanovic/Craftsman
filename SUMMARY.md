@@ -61,6 +61,9 @@
   * [Listing](theme-options/appearance/listing.md)
   * [Thumbnails](theme-options/appearance/thumbnails.md)
 * Reviews
+* [Page Specific Options](theme-options/page-specific-options.md)
+  * [Home Page Options](theme-options/page-specific-options/home-page-options.md)
+  * [Inner Pages Options](theme-options/page-specific-options/inner-pages-options.md)
 
 ## Job Applications
 
