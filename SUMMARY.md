@@ -51,6 +51,9 @@
   * [Premium Settings](theme-options/membership-setup/premium-settings.md)
   * [Featured Settings](theme-options/membership-setup/featured-settings.md)
 * [Payments Setup](theme-options/payments-setup.md)
+  * [General Settings](theme-options/payments-setup/general-settings.md)
+  * [PayPal Settings](theme-options/payments-setup/paypal-settings.md)
+  * [Stripe Settings](theme-options/payments-setup/stripe-settings.md)
 * [Reviews](theme-options/reviews.md)
 
 ## Job Applications
