@@ -6,17 +6,13 @@ When you have some applications for job it will be displayed like this:
 
 ![](/assets/54.png)![](/assets/55.png)
 
-
-
 Clicking on _New Applications_ will lead you to overview of all applications for given job.
 
 When and job is in progress job box will have icon and text like this instead:
 
 ![](/assets/57.png)
 
-As soon as the job is marked as finished and only _Job in progress..._ can be marked as finished, it will be moved to Finished Job section.
-
-
+As soon as the job is marked as finished and only _Job in progress..._ can be marked as finished, it will be moved to Finished Job section. You can see that when job is in progress you'll no longer be able to delete that job posting.
 
 ---
 
@@ -32,5 +28,7 @@ Let's see what happens when you perform an action by clicking on each of those i
 2. When you click on delete icon \( red icon in the middle \) you will rejected that application.
 3. If you click on envelope \( blue icon \) you'll be able to send email to that craftsman.
 
+When you accept an application first set of icons in the table will be switched to this one:![](/assets/58.png)Clicking on blue icon will mark job as finished and from that moment you'll be able to give review and rating to that craftsman.
 
+_Find out more on about review system: _[_Testimonials & Ratings_](/job-applications/applications/testimonials-and-ratings.md)
 

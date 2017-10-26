@@ -49,4 +49,5 @@
 * [Applications](job-applications/applications.md)
   * [Craftsman Applications](job-applications/applications/craftsman-applications.md)
   * [Client Applications](job-applications/applications/client-applications.md)
+  * [Testimonials & Ratings](job-applications/applications/testimonials-and-ratings.md)
 
