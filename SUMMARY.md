@@ -60,7 +60,7 @@
 * [Appearance](theme-options/appearance.md)
   * [Listing](theme-options/appearance/listing.md)
   * [Thumbnails](theme-options/appearance/thumbnails.md)
-* [Reviews](theme-options/reviews.md)
+* Reviews
 
 ## Job Applications
 
