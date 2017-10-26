@@ -54,6 +54,9 @@
   * [General Settings](theme-options/payments-setup/general-settings.md)
   * [PayPal Settings](theme-options/payments-setup/paypal-settings.md)
   * [Stripe Settings](theme-options/payments-setup/stripe-settings.md)
+* [Identity & Social](theme-options/identity-and-social.md)
+  * [Site Identity](theme-options/identity-and-social/site-identity.md)
+  * [Social Networks](theme-options/identity-and-social/social-networks.md)
 * [Reviews](theme-options/reviews.md)
 
 ## Job Applications
