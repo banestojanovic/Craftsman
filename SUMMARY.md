@@ -43,6 +43,7 @@
 
 * [Membership Setup](theme-options/membership-setup.md)
 * [Payments Setup](theme-options/payments-setup.md)
+* [Reviews](theme-options/reviews.md)
 
 ## Job Applications
 
