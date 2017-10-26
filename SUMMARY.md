@@ -46,6 +46,10 @@
   * [Endpoints Setup](theme-options/theme-setup/endpoints-setup.md)
   * [Fallbacks Setup](theme-options/theme-setup/fallbacks-setup.md)
 * [Membership Setup](theme-options/membership-setup.md)
+  * [General Settings](theme-options/membership-setup/general-settings.md)
+  * [Free Trial Settings](theme-options/membership-setup/free-trial-settings.md)
+  * [Premium Settings](theme-options/membership-setup/premium-settings.md)
+  * [Featured Settings](theme-options/membership-setup/featured-settings.md)
 * [Payments Setup](theme-options/payments-setup.md)
 * [Reviews](theme-options/reviews.md)
 
