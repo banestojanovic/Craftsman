@@ -16,7 +16,7 @@ _Find out more about User Membership - _[_User Membership_](/users/user-membersh
 
 Passive option of earning money from site comes from successfully applying Google Adsense program for which we made specific arrangements in the way ads are showing on your website.
 
-_Find out more about Google AdSense - _[_Google AdSense_](/google-adsense.md)
+_Find out more about Google AdSense - _[_Google AdSense_](/how-to-monetize-craftsman-theme/google-adsense.md)
 
 In future we will add more ways of passive ways of income.
 
