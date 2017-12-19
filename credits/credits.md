@@ -2,8 +2,6 @@
 
 We want to give special thank you to all authors of plugins that we used while creating our theme, authors of images and other various stuff.
 
-
-
 **Framework user:**
 
 * [Bootstrap](https://v4-alpha.getbootstrap.com)
@@ -24,6 +22,7 @@ We want to give special thank you to all authors of plugins that we used while c
 **Art & Other Stuff:**
 
 * [Envato Elements](https://elements.envato.com/)
+* [Material Icons](https://material.io/icons/)
 
 
 
