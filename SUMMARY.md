@@ -8,6 +8,8 @@
     * [How To Post Job?](how-craftsman-theme-works/how-to-post-job.md)
     * [How To Apply To Job?](how-craftsman-theme-works/how-to-apply-to-job.md)
     * [How To Invite Craftsman To Apply For Job?](how-craftsman-theme-works/how-to-invite-craftsman-to-apply-for-job.md)
+  * [How To Monetize Craftsman Theme?](how-to-monetize-craftsman-theme.md)
+    * [Google AdSense](how-to-monetize-craftsman-theme/google-adsense.md)
 
 ## Installation
 
@@ -43,6 +45,7 @@
   * [Pages Setup](theme-options/theme-setup/pages-setup.md)
   * [Endpoints Setup](theme-options/theme-setup/endpoints-setup.md)
   * [Fallbacks Setup](theme-options/theme-setup/fallbacks-setup.md)
+  * [Adsense Setup](theme-options/theme-setup/adsense-setup.md)
 * [Membership Setup](theme-options/membership-setup.md)
   * [General Settings](theme-options/membership-setup/general-settings.md)
   * [Free Trial Settings](theme-options/membership-setup/free-trial-settings.md)
