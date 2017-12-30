@@ -19,6 +19,7 @@
     * [Video Installation Tutorial](chapter1/video-installation-tutorial.md)
   * [Craftsman Listing Installation](chapter1/craftsman-listing-installation.md)
     * [Textual Listing Installation](chapter1/craftsman-listing-installation/textual-listing-installation.md)
+    * [Video Listing Installation](chapter1/craftsman-listing-installation/video-listing-installation.md)
 
 ## Users
 
