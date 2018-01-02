@@ -85,6 +85,10 @@
 
 * [Shortcodes](shortcodes/shortcodes.md)
 
+## Other
+
+* [Navigation](other/navigation.md)
+
 ## Credits
 
 * [Credits](credits/credits.md)
