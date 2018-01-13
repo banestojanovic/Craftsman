@@ -9,10 +9,6 @@ We want to give special thank you to all authors of plugins that we used while c
 **Plugins used: **
 
 * [MetaBox](https://metabox.io/)
-  * MetaBox
-  * MetaBox Group
-  * MetaBox Include/Exclude
-  * MetaBox Tabs
 * [Redux Framework](https://reduxframework.com/)
 * [WooCommerce](https://woocommerce.com/)
 * [Contact Form 7](https://contactform7.com/)
