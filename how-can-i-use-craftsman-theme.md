@@ -28,5 +28,5 @@ If you needed theme which will allow your site visitors to effectively perform s
 
 _To find out how to install theme for craftsmen listing only use below guide:_
 
-[Craftsman Listing Installation](/chapter1/craftsman-listing-installation.md)
+[Craftory Listing Installation](/chapter1/craftsman-listing-installation.md)
 
