@@ -88,6 +88,7 @@
 ## Other
 
 * [Navigation](other/navigation.md)
+* [Common Issues](other/common-issues.md)
 
 ## Credits
 

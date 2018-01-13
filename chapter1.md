@@ -6,7 +6,13 @@ This is guide on how to simply install Craftory theme and how to set up full dem
 
 [Textual Installation Tutorial](/textual-installation-tutorial.html#textual-installation-tutorial)
 
-#### 
+
+
+---
+
+**What to do if links are not working after demo import**
+
+Please refer to common issues section of this documentation: [_Common Issues_](/other/common-issues.md)
 
 
 
