@@ -6,7 +6,7 @@ _Find out more on how to set craftsman membership: _[_Craftsman Membership_](/us
 
 ---
 
-**Craftsmen frontend membership**
+**Craftsman frontend membership**
 
 When user creates his/her profile and choose to be craftsman, membership option will be automatically set to _Free Trial_ or _Premium_ depending on what they have chosen.
 

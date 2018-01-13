@@ -8,20 +8,18 @@ Listing installation is different only because of the different plugins that are
 
 This is more of a question of what plugins you shouldn't install when prompted. From the prompt you shouldn't install below plugins.
 
-1. _PBS\_Craftsman\_Job\_Agent_ - deactivate
-2. _PBS\_Craftsman\_Reviews_ - deactivate
+1. _PBS\_Craftory\_Jobs_ - deactivate
+2. _PBS\_Craftory\_Reviews_ - deactivate
 
 If you want to have reviews system for Craftsman Listing only you can have it by installing _PBS\_Craftsman\_Testimonials_ plugin.
 
-![](/assets/required_plugins.png) 
-
-
+![](/assets/required_plugins.png)
 
 **Installing through WP Admin**
 
 Log in to your WordPress admin dashboard then go to _Appearance -&gt; Themes  \_and click on \_Add New_ button then click on Upload to upload your theme. ![](/assets/2.png)
 
-Enter \_01\_Craftsman\_Theme \_folder and upload craftsman.zip file to WordPress server.
+Enter \_01\_Craftory\_Theme \_folder and upload craftsman.zip file to WordPress server.
 
 Wait for WordPress to finish uploading theme and then on next window click _Activate_.
 
@@ -58,7 +56,7 @@ While there are required plugins that needs to be installed  or activate you wil
 
 **How to import demo content**
 
-Now you have fully installed the Craftsman theme. The next thing you need to do is to install demo content.
+Now you have fully installed the Craftory theme. The next thing you need to do is to install demo content.
 
 This is One Click Demo Import which means that all that you have to do is to go to _Appearance -&gt; Import Demo Content \_and click on button \_Import Demo Content _ and wait for import to finish the process.
 
@@ -71,6 +69,4 @@ When you click on button make sure that you wait as long as it is necessary \( i
 ![](/assets/6.png)
 
 When you get Success message demo has been import and everything is set for you to start using the theme.
-
-
 

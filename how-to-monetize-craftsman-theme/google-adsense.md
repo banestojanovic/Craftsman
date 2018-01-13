@@ -2,9 +2,9 @@
 
 Google AdSense is google made way of earning from your business. In order to do that you'll firstly need to have fully functional site for some time. Then you'll be able to apply for it.
 
-Once you have fully running website you'll need to go to [Google AdSense](https://www.google.com/adsense/start/#/?modal_active=none) website and sign up for it. Afterwards, Google team will review your website and decide if they are going to allow you to post ads on your site \( Craftsman theme \) and start making passive income.
+Once you have fully running website you'll need to go to [Google AdSense](https://www.google.com/adsense/start/#/?modal_active=none) website and sign up for it. Afterwards, Google team will review your website and decide if they are going to allow you to post ads on your site \( Craftory theme \) and start making passive income.
 
-When your site gets green light from Google is the time when Craftsman theme comes to play. Switch back to theme administration to enter  the codes for ads you'll get from Google.
+When your site gets green light from Google is the time when Craftory theme comes to play. Switch back to theme administration to enter  the codes for ads you'll get from Google.
 
 Sign up for Google AdSense program - [Google AdSense](https://www.google.com/adsense/start/#/?modal_active=none)
 

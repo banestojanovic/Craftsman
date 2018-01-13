@@ -2,7 +2,7 @@
 
 **You have downloaded theme from Themeforest, what next?**
 
-Craftsman theme is very easy to install and the whole process shouldn't take longer than a couple of minutes and the time depends largely on your server.
+Craftory theme is very easy to install and the whole process shouldn't take longer than a couple of minutes and the time depends largely on your server.
 
 When you download the theme from Themeforest you will receive zip file which, when you extract it, will have folder structure similar to this:
 
@@ -10,13 +10,13 @@ When you download the theme from Themeforest you will receive zip file which, wh
 
 Let's explain what you see on the image:
 
-_01_\_Craftsman\_Theme - \_In this folder you will find theme that you will use to install Craftsman theme on WordPress site.
+_01_\_Craftory\_Theme - \_In this folder you will find theme that you will use to install Craftsman theme on WordPress site.
 
-02\_Craftsman\_Child\_Theme - In this folder you will find child theme that you can use to make customization to existing theme without worrying that your changes will be affected by some future update.
+02\_Craftory\_Child\_Theme - In this folder you will find child theme that you can use to make customization to existing theme without worrying that your changes will be affected by some future update.
 
-03\_Craftsman\_Changelog - In this folder you will find changelog.txt file where you can track all theme changes and find the list of files that were affected.
+03\_Craftory\_Changelog - In this folder you will find changelog.txt file where you can track all theme changes and find the list of files that were affected.
 
-04\_Craftsman\_Help - In this folder you will find help file \( theme documentation \) that you can use as guide while working with Craftsman WordPress theme. Any issue or question you might have we strongly suggest that your first step in resolving it starts with documentation.
+04\_Craftory\_Help - In this folder you will find help file \( theme documentation \) that you can use as guide while working with Craftory WordPress theme. Any issue or question you might have we strongly suggest that your first step in resolving it starts with documentation.
 
 _05\_Craftsman\_PSD - _ In this folder you will find Photoshop Design of the theme.
 
@@ -28,7 +28,7 @@ Next thing that you have to do is to upload the theme to your WordPress site and
 
 Log in to your WordPress admin dashboard then go to _Appearance -&gt; Themes  \_and click on \_Add New_ button then click on Upload to upload your theme. ![](/assets/2.png)
 
-Enter \_01\_Craftsman\_Theme \_folder and upload craftsman.zip file to WordPress server.
+Enter \_01\_Craftory\_Theme \_folder and upload craftsman.zip file to WordPress server.
 
 Wait for WordPress to finish uploading theme and then on next window click _Activate_.
 
@@ -65,7 +65,7 @@ While there are required plugins that needs to be installed  or activate you wil
 
 **How to import demo content**
 
-Now you have fully installed the Craftsman theme. The next thing you need to do is to install demo content.
+Now you have fully installed the Craftory theme. The next thing you need to do is to install demo content.
 
 This is One Click Demo Import which means that all that you have to do is to go to _Appearance -&gt; Import Demo Content \_and click on button \_Import Demo Content _ and wait for import to finish the process.
 

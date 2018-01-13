@@ -3,12 +3,12 @@
 ## Introduction
 
 * [Introduction](README.md)
-  * [For What Can I Use Craftsman Theme?](how-can-i-use-craftsman-theme.md)
-  * [How Craftsman Theme Works?](how-craftsman-theme-works.md)
+  * [For What Can I Use Craftory Theme?](how-can-i-use-craftsman-theme.md)
+  * [How Craftory Theme Works?](how-craftsman-theme-works.md)
     * [How To Post Job?](how-craftsman-theme-works/how-to-post-job.md)
     * [How To Apply To Job?](how-craftsman-theme-works/how-to-apply-to-job.md)
     * [How To Invite Craftsman To Apply For Job?](how-craftsman-theme-works/how-to-invite-craftsman-to-apply-for-job.md)
-  * [How To Monetize Craftsman Theme?](how-to-monetize-craftsman-theme.md)
+  * [How To Monetize Craftory Theme?](how-to-monetize-craftsman-theme.md)
     * [Google AdSense](how-to-monetize-craftsman-theme/google-adsense.md)
 
 ## Installation
@@ -17,7 +17,7 @@
   * [Full Theme Installation](chapter1/full-installation.md)
     * [Textual Installation Tutorial](chapter1/textual-installation-tutorial.md)
     * [Video Installation Tutorial](chapter1/video-installation-tutorial.md)
-  * [Craftsman Listing Installation](chapter1/craftsman-listing-installation.md)
+  * [Craftory Listing Installation](chapter1/craftsman-listing-installation.md)
     * [Textual Listing Installation](chapter1/craftsman-listing-installation/textual-listing-installation.md)
 
 ## Users

@@ -1,6 +1,6 @@
-#### How To Monetize Craftsman Theme?
+#### How To Monetize Craftory Theme?
 
-There are two possible ways of monetizing Craftsman theme. We decided to call them active and passive way of earning from your site. In the next two subsections you'll be able to find out how to do that.
+There are two possible ways of monetizing Craftory theme. We decided to call them active and passive way of earning from your site. In the next two subsections you'll be able to find out how to do that.
 
 ---
 

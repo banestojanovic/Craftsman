@@ -1,6 +1,6 @@
 #### User Membership
 
-Craftsman theme allows you to create and use membership system as you see fit. Based on two types of accounts, craftsman and client \( _find out more about user roles: _[_User Roles_](/users/user-roles.md)_ \)_, you can create their membership options.
+Craftory theme allows you to create and use membership system as you see fit. Based on two types of accounts, craftsman and client \( _find out more about user roles: _[_User Roles_](/users/user-roles.md)_ \)_, you can create their membership options.
 
 User Membership can be set in theme options, please read below guide on how to do it:
 
