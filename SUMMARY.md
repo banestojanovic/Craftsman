@@ -47,6 +47,7 @@
   * [Endpoints Setup](theme-options/theme-setup/endpoints-setup.md)
   * [Fallbacks Setup](theme-options/theme-setup/fallbacks-setup.md)
   * [Adsense Setup](theme-options/theme-setup/adsense-setup.md)
+  * [Map Setup](theme-options/theme-setup/map-setup.md)
 * [Membership Setup](theme-options/membership-setup.md)
   * [General Settings](theme-options/membership-setup/general-settings.md)
   * [Free Trial Settings](theme-options/membership-setup/free-trial-settings.md)
