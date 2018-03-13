@@ -14,8 +14,6 @@ By default we are not providing map style as used on our demo because we use Map
 
 So lets se how you can have the same map style as it is used on our demo site or create your own.
 
-
-
 **Map same as demo / 50.000 views per month allowed:**
 
 First of all go to [MapBox.](https://www.mapbox.com) Create your profile there and then navigate to studio.
@@ -27,8 +25,6 @@ After that please go to styles and click on **New Style:**![](/assets/new_style.
 Now you will see your map style added just like on the picture above. Click on** Menu** and then on **Share, Develop & Use.**![](/assets/share.png)On the next page if you scroll a little bit you'll find box called **Develop with this style.** There click on checkbox to make sure **Leaflet **is selected and copy the code from the box:![](/assets/leaflet.png)Now go to your site Theme Options **Craftsman -&gt; Theme Options -&gt; Map Setup** and in the filed **Custom Map Style** paste the code you copied before:![](/assets/mapbox_code.png)
 
 That's it, now you have the map same as demo. You can do that for every style.
-
-
 
 ---
 
